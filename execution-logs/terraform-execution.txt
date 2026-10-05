@@ -1,0 +1,39 @@
+========================================
+TASK 3 - TERRAFORM DOCKER
+========================================
+
+1. Terraform Version
+----------------------------------------
+terraform version
+
+2. Terraform Initialization
+----------------------------------------
+terraform init
+
+3. Terraform Validation
+----------------------------------------
+terraform validate
+
+4. Terraform Plan
+----------------------------------------
+terraform plan
+
+5. Terraform Apply
+----------------------------------------
+terraform apply
+
+6. Docker Container
+----------------------------------------
+docker ps
+
+7. Terraform State
+----------------------------------------
+terraform state list
+
+8. Terraform Destroy
+----------------------------------------
+terraform destroy
+
+========================================
+TASK COMPLETED
+========================================
